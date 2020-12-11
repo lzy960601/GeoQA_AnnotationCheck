@@ -2,3 +2,4 @@
 .DS_Store
 AnnotationCheck.iml
 target
+src/JavaUtil.properties

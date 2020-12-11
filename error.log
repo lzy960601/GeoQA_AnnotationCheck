@@ -1,0 +1,4 @@
+2020-12-11 23:02:01  [ http-nio-9999-exec-3:151432 ] - [ ERROR ]  addInfo do not have parameter : image_id !
+2020-12-11 23:03:23  [ http-nio-9999-exec-7:233296 ] - [ ERROR ]  addInfo do not have parameter : image_id !
+2020-12-11 23:04:49  [ http-nio-9999-exec-1:319156 ] - [ ERROR ]  addInfo do not have parameter : annotation_text !
+2020-12-11 23:06:35  [ http-nio-9999-exec-4:425171 ] - [ ERROR ]  addInfo do not have parameter : template_id_list !

@@ -1,0 +1,124 @@
+2020-12-11 19:58:41  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 20:01:50  [ restartedMain:188669 ] - [ INFO ]  Read Category Success ! Set Size : 22
+2020-12-11 20:01:50  [ restartedMain:188697 ] - [ INFO ]  Read Template Success ! Set Size : 0
+2020-12-11 20:01:50  [ restartedMain:189396 ] - [ INFO ]  Read Material Success ! Set Size : 12621
+2020-12-11 20:01:50  [ restartedMain:189397 ] - [ INFO ]  Global Store Complete!
+2020-12-11 20:02:53  [ http-nio-9999-exec-2:251865 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 20:02:53  [ http-nio-9999-exec-2:252005 ] - [ INFO ]  User : 赵悦, Total Image Number : 22 !
+2020-12-11 20:14:07  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 20:16:52  [ restartedMain:164940 ] - [ INFO ]  Read Category Success ! Set Size : 22
+2020-12-11 20:16:52  [ restartedMain:164971 ] - [ INFO ]  Read Template Success ! Set Size : 82
+2020-12-11 20:16:53  [ restartedMain:166083 ] - [ INFO ]  Read Material Success ! Set Size : 12621
+2020-12-11 20:16:53  [ restartedMain:166083 ] - [ INFO ]  Global Store Complete!
+2020-12-11 20:17:12  [ http-nio-9999-exec-2:184566 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 20:17:12  [ http-nio-9999-exec-2:184662 ] - [ INFO ]  User : 赵悦, Total Image Number : 22 !
+2020-12-11 20:20:56  [ http-nio-9999-exec-5:408396 ] - [ INFO ]  Get Info ! Username : 陈越
+2020-12-11 20:20:56  [ http-nio-9999-exec-5:408588 ] - [ INFO ]  User : 陈越, Total Image Number : 880 !
+2020-12-11 20:26:53  [ http-nio-9999-exec-8:765358 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 20:26:53  [ http-nio-9999-exec-8:765725 ] - [ INFO ]  User : 赵悦, Total Image Number : 22 !
+2020-12-11 20:29:00  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 20:33:35  [ restartedMain:274749 ] - [ INFO ]  Read Category Success ! Set Size : 22
+2020-12-11 20:33:35  [ restartedMain:274868 ] - [ INFO ]  Read Template Success ! Set Size : 82
+2020-12-11 20:33:36  [ restartedMain:276227 ] - [ INFO ]  Read Material Success ! Set Size : 12621
+2020-12-11 20:33:36  [ restartedMain:276227 ] - [ INFO ]  Global Store Complete!
+2020-12-11 20:34:01  [ http-nio-9999-exec-2:300897 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 20:34:01  [ http-nio-9999-exec-2:301080 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 20:34:06  [ http-nio-9999-exec-3:305950 ] - [ INFO ]  Get Info ! Username : 陈越
+2020-12-11 20:34:06  [ http-nio-9999-exec-3:306376 ] - [ INFO ]  User : 陈越, Total Image Number : 1 !
+2020-12-11 21:13:13  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 21:15:21  [ restartedMain:128543 ] - [ INFO ]  Read Category Success ! Set Size : 22
+2020-12-11 21:15:21  [ restartedMain:128572 ] - [ INFO ]  Read Template Success ! Set Size : 82
+2020-12-11 21:15:22  [ restartedMain:129190 ] - [ INFO ]  Read Material Success ! Set Size : 12621
+2020-12-11 21:15:22  [ restartedMain:129283 ] - [ INFO ]  Read ATemplate Success ! Set Size : 1079
+2020-12-11 21:15:22  [ restartedMain:129319 ] - [ INFO ]  Read ACategory Success ! Set Size : 1079
+2020-12-11 21:15:25  [ restartedMain:131984 ] - [ INFO ]  Read Shortans Success ! Set Size : 3593
+2020-12-11 21:15:25  [ restartedMain:131984 ] - [ INFO ]  Global Store Complete!
+2020-12-11 22:10:26  [ http-nio-9999-exec-1:3433125 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:10:29  [ http-nio-9999-exec-1:3436246 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:10:32  [ http-nio-9999-exec-2:3438883 ] - [ INFO ]  Get Info ! Username : 
+2020-12-11 22:10:32  [ http-nio-9999-exec-2:3438937 ] - [ INFO ]  User : , Total Image Number : 0 !
+2020-12-11 22:10:32  [ http-nio-9999-exec-3:3439138 ] - [ INFO ]  Get Info ! Username : 
+2020-12-11 22:10:32  [ http-nio-9999-exec-3:3439214 ] - [ INFO ]  User : , Total Image Number : 0 !
+2020-12-11 22:11:02  [ http-nio-9999-exec-4:3469281 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:11:02  [ http-nio-9999-exec-4:3469333 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:14:08  [ http-nio-9999-exec-7:3655458 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:14:08  [ http-nio-9999-exec-7:3655487 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:15:17  [ http-nio-9999-exec-9:3724449 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:15:17  [ http-nio-9999-exec-9:3724492 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:18:59  [ http-nio-9999-exec-1:3946496 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:18:59  [ http-nio-9999-exec-1:3946524 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:19:36  [ http-nio-9999-exec-3:3983212 ] - [ INFO ]  Get Info ! Username : 
+2020-12-11 22:19:36  [ http-nio-9999-exec-3:3983240 ] - [ INFO ]  User : , Total Image Number : 0 !
+2020-12-11 22:19:58  [ http-nio-9999-exec-4:4005210 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:19:58  [ http-nio-9999-exec-4:4005240 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:21:42  [ http-nio-9999-exec-8:4109768 ] - [ INFO ]  Get Info ! Username : 
+2020-12-11 22:21:43  [ http-nio-9999-exec-8:4109821 ] - [ INFO ]  User : , Total Image Number : 0 !
+2020-12-11 22:21:51  [ http-nio-9999-exec-9:4118016 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:21:51  [ http-nio-9999-exec-9:4118047 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:22:49  [ http-nio-9999-exec-1:4176623 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:22:49  [ http-nio-9999-exec-1:4176652 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:29:53  [ http-nio-9999-exec-5:4600575 ] - [ INFO ]  Get Info ! Username : 陈越
+2020-12-11 22:29:53  [ http-nio-9999-exec-5:4600643 ] - [ INFO ]  User : 陈越, Total Image Number : 1 !
+2020-12-11 22:38:41  [ http-nio-9999-exec-7:5128463 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:38:41  [ http-nio-9999-exec-7:5128488 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:38:49  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 22:39:51  [ http-nio-9999-exec-1:62379 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:39:51  [ http-nio-9999-exec-1:62482 ] - [ INFO ]  User : 赵悦, Total Image Number : 0 !
+2020-12-11 22:39:54  [ http-nio-9999-exec-2:65363 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:39:54  [ http-nio-9999-exec-2:65468 ] - [ INFO ]  User : 赵悦, Total Image Number : 0 !
+2020-12-11 22:40:39  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 22:41:20  [ http-nio-9999-exec-1:41393 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:41:21  [ http-nio-9999-exec-1:41496 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:42:40  [ restartedMain:120771 ] - [ INFO ]  Read Category Success ! Set Size : 22
+2020-12-11 22:42:40  [ restartedMain:120795 ] - [ INFO ]  Read Template Success ! Set Size : 82
+2020-12-11 22:42:40  [ restartedMain:121366 ] - [ INFO ]  Read Material Success ! Set Size : 12621
+2020-12-11 22:42:41  [ restartedMain:121463 ] - [ INFO ]  Read ATemplate Success ! Set Size : 1086
+2020-12-11 22:42:41  [ restartedMain:121514 ] - [ INFO ]  Read ACategory Success ! Set Size : 1086
+2020-12-11 22:42:43  [ restartedMain:123890 ] - [ INFO ]  Read Shortans Success ! Set Size : 3593
+2020-12-11 22:42:43  [ restartedMain:123890 ] - [ INFO ]  Global Store Complete!
+2020-12-11 22:43:50  [ http-nio-9999-exec-3:191393 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:43:50  [ http-nio-9999-exec-3:191419 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:44:53  [ http-nio-9999-exec-7:254170 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:44:53  [ http-nio-9999-exec-7:254202 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:46:30  [ http-nio-9999-exec-9:350971 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:46:30  [ http-nio-9999-exec-9:350995 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:47:48  [ http-nio-9999-exec-4:429299 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:47:48  [ http-nio-9999-exec-4:429331 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:48:28  [ http-nio-9999-exec-5:468659 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:48:28  [ http-nio-9999-exec-5:468703 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:49:18  [ http-nio-9999-exec-6:519027 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:49:18  [ http-nio-9999-exec-6:519061 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:50:59  [ http-nio-9999-exec-10:620121 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:50:59  [ http-nio-9999-exec-10:620161 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:51:35  [ http-nio-9999-exec-1:655511 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:51:35  [ http-nio-9999-exec-1:655537 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:53:26  [ http-nio-9999-exec-2:767247 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 22:53:26  [ http-nio-9999-exec-2:767340 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 22:54:28  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 22:56:18  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 22:59:29  [ restartedMain:0 ] - [ INFO ]  Global Store Begin!
+2020-12-11 23:01:39  [ restartedMain:129104 ] - [ INFO ]  Read Category Success ! Set Size : 22
+2020-12-11 23:01:39  [ restartedMain:129150 ] - [ INFO ]  Read Template Success ! Set Size : 82
+2020-12-11 23:01:39  [ restartedMain:129736 ] - [ INFO ]  Read Material Success ! Set Size : 12621
+2020-12-11 23:01:39  [ restartedMain:129830 ] - [ INFO ]  Read ATemplate Success ! Set Size : 1086
+2020-12-11 23:01:39  [ restartedMain:129868 ] - [ INFO ]  Read ACategory Success ! Set Size : 1086
+2020-12-11 23:01:42  [ restartedMain:132349 ] - [ INFO ]  Read Shortans Success ! Set Size : 3593
+2020-12-11 23:01:42  [ restartedMain:132350 ] - [ INFO ]  Global Store Complete!
+2020-12-11 23:01:46  [ http-nio-9999-exec-1:136152 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 23:01:46  [ http-nio-9999-exec-1:136185 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 23:02:01  [ http-nio-9999-exec-3:151432 ] - [ ERROR ]  addInfo do not have parameter : image_id !
+2020-12-11 23:03:16  [ http-nio-9999-exec-5:226551 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 23:03:16  [ http-nio-9999-exec-5:226584 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 23:03:23  [ http-nio-9999-exec-7:233296 ] - [ ERROR ]  addInfo do not have parameter : image_id !
+2020-12-11 23:04:43  [ http-nio-9999-exec-10:313856 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 23:04:43  [ http-nio-9999-exec-10:313910 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 23:04:49  [ http-nio-9999-exec-1:319156 ] - [ ERROR ]  addInfo do not have parameter : annotation_text !
+2020-12-11 23:06:28  [ http-nio-9999-exec-3:418920 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 23:06:28  [ http-nio-9999-exec-3:418956 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 23:06:35  [ http-nio-9999-exec-4:425171 ] - [ ERROR ]  addInfo do not have parameter : template_id_list !
+2020-12-11 23:07:05  [ http-nio-9999-exec-5:455684 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 23:07:05  [ http-nio-9999-exec-5:455712 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 23:07:11  [ http-nio-9999-exec-7:461991 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 23:07:11  [ http-nio-9999-exec-7:462022 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
+2020-12-11 23:07:53  [ http-nio-9999-exec-10:503320 ] - [ INFO ]  Get Info ! Username : 赵悦
+2020-12-11 23:07:53  [ http-nio-9999-exec-10:503347 ] - [ INFO ]  User : 赵悦, Total Image Number : 1 !
